@@ -45,4 +45,4 @@ pip install -r requirements.txt
 
 
 #### 5. Ready
-Now you're ready for the lesson. Good luck!
+You now have a baseline Lambda function working locally. Check out the code in the [course directory](./course) or learn how to implement this code on [cfe](https://www.codingforentrepreneurs.com/projects/serverless-python-aws-lambda-api-gateway).
